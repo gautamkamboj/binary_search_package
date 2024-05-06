@@ -1,0 +1,14 @@
+{
+  "name": "binary_search_package_gk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Gautam KAmboj",
+  "license": "ISC",
+  "description": ""
+}
